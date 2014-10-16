@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ble:home|Door43 (ble)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ble|d43-ble repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ble/archive/master.zip|d43-ble.zip]]
+
+**Recent Changes**
+{{changes>ns = ble}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ble|Ethnologue data]]
+
